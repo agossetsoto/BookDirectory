@@ -44,3 +44,25 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### `Log In Valid Credentials`
+
+  email: "eve.holt@reqres.in",
+  password: "cityslicka"
+
+### `Sign In Valid Credentials`
+
+  email: "eve.holt@reqres.in",
+  password: "pistol"
+
+### `Books Directory`
+
+  Once the login or sign in is successful the user gets redirected to this page.
+  Clicking on the logo "Books Library" also takes the user to this page.
+
+  When the user clicks on the add button on the book card they can add their rating and add them to their Want To Read list of their Already Read list.
+
+### `My Books`
+
+  When clicking on the MyBooks section of the header it takes the user to view their selections for books Already Read and books they Want to Read.
+  
